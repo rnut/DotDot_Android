@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="random">random</string>
+    <string name="clear">clear</string>
+    <string name="Delete">Delete</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+</resources>
